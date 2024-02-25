@@ -1,8 +1,10 @@
-- ಥ_ಥ Hi, I’m @GinkuiMain
+- Moderate level at Python
 
-- (ˉ﹃ˉ) I know a bit of C#
+- Moderate level at C#
 
-- φ(゜▽゜*)♪ I also know a huge/moderate amount of Python
+- Beginner with Java.
+
+- I know PostgreSQL, since I absolutely love DB.
 
 <!---
 GinkuiMain/GinkuiMain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
