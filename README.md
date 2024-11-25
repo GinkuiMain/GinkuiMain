@@ -1,8 +1,8 @@
-- Moderate level at Python
+- Moderate level in Python
 
-- Moderate level at C#
+- Moderate level in C#
 
-- Beginner with Java.
+- Moderate level in Java.
 
 - I know PostgreSQL, since I absolutely love DB.
 
