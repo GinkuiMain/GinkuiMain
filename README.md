@@ -4,7 +4,7 @@
 
 - Moderate level in Java.
 
-- I know PostgreSQL, since I absolutely love DB.
+- Postgre, Oracle, MySQL and SQL Server enjoyer
 
 <!---
 GinkuiMain/GinkuiMain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
