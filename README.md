@@ -1,13 +1,7 @@
-- Moderate level in Python
-
-- Moderate level in C#
-
-- Moderate level in Java.
-
-- Postgre, Oracle, MySQL enjoyer
-
-
-
+- Java, C#, PHP and Python.
+- 
+- Postgre, Oracle, MySQL and MSSQL enjoyer
+- 
 - Follow me on LeetCode! ( https://leetcode.com/u/GinkuiMain/ )
 <!---
 GinkuiMain/GinkuiMain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
